@@ -117,8 +117,8 @@
    <text xml:lang="eng">
       <body>
          <div type="order">
-            <pb facs="tcp:1017B2770BCA66F0:039260_0000_0000000000000000"/>
-            <pb facs="tcp:1017B2770BCA66F0:039260_0001_0000000000000000"
+            <pb facs="unknown:039260_0000_0000000000000000"/>
+            <pb facs="unknown:039260_0001_0000000000000000"
                 rendition="simple:additions"/>
             <head>BY THE COUNCIL and REPRESENTATIVES Of the COLONY of the <hi>Massachusetts Bay</hi>; Convened At <hi>Boston.</hi>
             </head>
